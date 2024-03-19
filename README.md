@@ -1,2 +1,2 @@
-# Boostrap-Intro
+# Bootstrap-Intro
  Intro to Boostrap challenge
